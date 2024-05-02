@@ -1,6 +1,6 @@
 ---
 
-potos_xdg_autostart: {}
+potos_xdg_autostart: []
 #  - script: "/usr/local/bin/test_1.sh"
 #    runonlyonce: yes
 #  - script: "/usr/local/bin/test_2.sh"
